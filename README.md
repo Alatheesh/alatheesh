@@ -1,81 +1,87 @@
-<h1 align="center">Hi 👋, I'm Latheesh Reddy</h1>
+<h1 align="center">Latheesh Reddy</h1>
 
 <h3 align="center">
-Building modern web experiences, streaming platforms, and futuristic UI systems.
+Frontend Developer • UI/UX Enthusiast • Student Developer
 </h3>
+
+<p align="center">
+Building modern web experiences with clean design, responsive interfaces, and scalable frontend systems.
+</p>
 
 <br>
 
-<div align="center">
-
-🌌 Student Developer  
-🎨 UI/UX Enthusiast  
-🚀 Building NTM Online  
-⚡ Passionate about futuristic web interfaces  
-
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Alatheesh&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 ---
 
-# 💫 About Me
+## About Me
 
-- 🔭 Currently working on **NTM Online**
-- 🌱 Learning modern web development and scalable systems
-- 🎯 Focused on UI/UX, streaming platforms, and responsive design
-- ⚡ Love building clean, premium, futuristic interfaces
-- 📚 Student exploring real-world projects and production-ready apps
+- 🎓 Student passionate about software development and modern UI systems
+- 💻 Focused on frontend development, responsive design, and web applications
+- 🚀 Currently building projects like **NTM Online**
+- 🎨 Interested in creating premium and user-friendly digital experiences
+- 📚 Continuously learning new technologies and real-world development practices
 
 ---
 
-# 🚀 Tech Stack
+## Tech Stack
 
-<div align="center">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,firebase,nodejs,git,github,vscode" />
 
-</div>
+</p>
 
 ---
 
-# 🌟 Featured Projects
+## Featured Projects
 
-## 🎬 NTM Online
-Modern streaming platform with futuristic UI design, responsive layouts, and media-focused experience.
+### NTM Online
+A modern streaming platform focused on responsive layouts, smooth user experience, and futuristic interface design.
 
-## 🤖 Automation & Bot Projects
-Utility bots and smart automation systems built for real-world usage.
+### UI & Frontend Experiments
+Interactive frontend concepts, clean animations, and modern interface systems.
 
-## 🎮 UI / Game Interface Experiments
-Clean neon-style game interfaces and interactive frontend concepts.
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alatheesh&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Alatheesh&theme=tokyonight&hide_border=true"/>
-
-</div>
+### Automation & Utility Projects
+Practical tools and automation-focused applications built for learning and productivity.
 
 ---
 
-# 🌐 Connect With Me
+## GitHub Stats
 
-<div align="center">
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Alatheesh&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Alatheesh&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+## Currently Learning
+
+- Advanced JavaScript
+- Backend Development
+- Scalable Web Applications
+- UI/UX Optimization
+
+---
+
+## Connect
+
+<p align="center">
 
 <a href="https://github.com/Alatheesh">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
-
-### ✨ “Building ideas into polished digital experiences.” ✨
-
-</div>
+<p align="center">
+<i>Focused on building clean, modern, and meaningful digital experiences.</i>
+</p>
